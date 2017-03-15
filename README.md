@@ -1,2 +1,2 @@
 # TapeManagement
-React Native animation for ruler
+React Native ruler component with animation.
